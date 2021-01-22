@@ -4,7 +4,9 @@
 -   **Formats:** Kontakt
 -   **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Yamaha_CS30/CS30L_synthesizer)
 
--  **Audio**: https://www.dropbox.com/sh/06eu0kz3030nv2x/AACxDibNq9Ir20wKEpmw7BQwa?dl=0
+ **This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/06eu0kz3030nv2x/AACxDibNq9Ir20wKEpmw7BQwa?dl=0)
 
 # Loading
 
@@ -28,5 +30,5 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 # Disks
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
