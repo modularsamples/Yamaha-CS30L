@@ -3,6 +3,7 @@
 
 -   **Formats:** Kontakt
 -   **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Yamaha_CS30/CS30L_synthesizer)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/cs30.html)
 
  **This collection requires you to download the audio seperately**
 
@@ -19,15 +20,11 @@
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-# Help out
-  
-Hey you! Yes, you with the sampler! This project really needs your help! 
 
-- New formats. Currently only  Kontakt is supported. 
 
- If you'd like to get involved take a look at the issues page or get in [touch via email](mailto:modularsamples@gmail.com) to discuss the project.
+# Support this project
 
-# Disks
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
 ![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
