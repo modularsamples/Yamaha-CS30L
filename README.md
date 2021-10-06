@@ -5,9 +5,8 @@
 -   **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Yamaha_CS30/CS30L_synthesizer)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/cs30.html)
 
- **This collection requires you to download the audio seperately**
+ **[Download Audio](https://github.com/publicsamples/Yamaha-CS30L/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/06eu0kz3030nv2x/AACxDibNq9Ir20wKEpmw7BQwa?dl=0)
 
 # Loading
 
